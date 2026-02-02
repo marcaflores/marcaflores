@@ -13,6 +13,6 @@ Computer Science student at the CUNY College of Staten Island. Passionate about 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcaflores&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"Everybody in this country should learn how to program a computer, because it teaches you how to think"-Steve Jobs
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
